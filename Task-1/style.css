@@ -305,7 +305,7 @@ footer{
         
     }
 }
-@media (max-width:604px){
+@media (max-width:628px){
     nav ul{
         width: auto;
     }
@@ -350,7 +350,7 @@ footer{
         width: auto;
     }
 }
-@media (max-width:500px){
+@media (max-width:546px){
     label.logo{
         font-size: 16px;
     }
@@ -392,7 +392,7 @@ footer{
         font-size: 10px ;
     }
 }
-@media (max-width:400px){
+@media (max-width:436px){
     label.logo{
         display: none;
     }
